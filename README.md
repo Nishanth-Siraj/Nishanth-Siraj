@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced concepts
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me developernishanthsiraj@gmail.com
-- ⚡ Reach me at : https://www.linkedin.com/in/nishanth-siraj-5a606211a/
+- ⚡ Profile Info : https://www.linkedin.com/in/nishanth-siraj-5a606211a/
 
 <!---
 Nishanth-Siraj/Nishanth-Siraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
