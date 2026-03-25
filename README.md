@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishanth-Siraj
-- 👀 I’m interested in Django - React 
+- 👀 I’m interested in AI Development 
 - 🌱 I’m currently learning Advanced concepts
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me developernishanthsiraj@gmail.com
