@@ -39,30 +39,4 @@ I'm a **Django / DRF backend developer** currently working on CRM, project-manag
 </div>
 
 <br/>
-
-## What I'm Building
-
-| Project | Description |
-|---|---|
-| **Alliance CRM** | Django/DRF CRM for Alliance University — WhatsApp Business API, Celery-driven async reports, Redis-cached analytics, FCM push notifications |
-| **Real-Time Chat App** | WhatsApp-styled chat built with Vue.js + Django Channels — attachments, reply threading, live messaging |
-| **Thrusta** | Project management system with Firebase Cloud Messaging push notifications |
-| **AI Agent Pipeline** *(WIP)* | Fine-tuning Qwen 7B with Unsloth, served via Ollama, orchestrated by a 3-agent CrewAI pipeline with Chroma for RAG grounding |
-
 <br/>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishanth-Siraj&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-Backend by day, AI engineer in training by night.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0f2027&height=90&section=footer" width="100%"/>
-
-</div>
