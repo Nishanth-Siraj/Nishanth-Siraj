@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Nishanth%20Siraj&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Building%20towards%20AI%20Engineering&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Nishanth%20Siraj&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%Engineer%20%C2%B7%20Building%20towards%20AI%20Engineering&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=560&lines=Django+%2B+DRF+Backend+Developer;Building+CRM%2C+Chat+%26+Integration+Systems;Proficient+in+%2C+LLMs%2C+RAG+%26+Agent+Pipelines" />
 
@@ -17,7 +17,7 @@
 
 ## About
 
-I'm a **Django / DRF backend developer** currently working on CRM, project-management, and real-time chat systems, and steadily building toward **AI engineering** — LLM internals, RAG pipelines, and multi-agent systems.
+I'm a **AI Engineer & FullStack Developer** currently working on CRM, project-management, and real-time chat systems, and steadily building toward **AI engineering** — LLM internals, RAG pipelines, and multi-agent systems.
 
 - 👀 Interested in **AI development** — LLMs, RAG, and autonomous agents
 - 🌱 Currently deep-diving into advanced backend + AI/ML concepts
