@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Nishanth%20Siraj&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%Engineer%20%C2%B7%20Building%20towards%20AI%20Engineering&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Nishanth%20Siraj&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Engineer%20%C2%B7%20Building%20towards%20AI%20Engineering&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=560&lines=Django+%2B+DRF+Backend+Developer;Building+CRM%2C+Chat+%26+Integration+Systems;Proficient+in+%2C+LLMs%2C+RAG+%26+Agent+Pipelines" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=560&lines=AI+Engineer+%2B+DRF+Backend+Developer;Building+CRM%2C+Chat+%26+Integration+Systems;Proficient+in+%2C+LLMs%2C+RAG+%26+Agent+Pipelines" />
 
 <a href="https://www.linkedin.com/in/nishanth-siraj-5a606211a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
